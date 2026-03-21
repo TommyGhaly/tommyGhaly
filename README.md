@@ -12,7 +12,7 @@
 #### [Taksis](https://github.com/TommyGhaly/Taksis) — Church Management, Modernized
 > React Native · Expo · Firebase · MLKit
 
-A full-scale production app serving **2,500+ users** across Coptic Orthodox communities. Scheduling, attendance tracking, QR-based traffic management with license plate OCR, donations, and liturgical tools — all in one platform. Live on the Play Store.
+A full-scale production app serving **500+ users** across Coptic Orthodox communities. Scheduling, attendance tracking, QR-based traffic management with license plate OCR, donations, and liturgical tools — all in one platform. Live on the Play Store.
 
 #### 📈 Options Pricing & Calibration Engine
 > C++ · Python · pybind11 · Plotly Dash
