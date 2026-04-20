@@ -38,9 +38,21 @@ Testing      ➜  JUnit · Mutation Testing · NullAway Static Analysis
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommyGhaly&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 📅 Timeline
+
+**2024 - Present** · Building **Taksis**
+> 500+ users across Coptic Orthodox communities · Live on Play Store · Full-stack development (React Native, Firebase, MLKit)
+
+**2025** · Launched **Options Pricing & Calibration Engine**
+> High-performance quantitative finance toolkit · Black-Scholes, SABR, Heston models · Real-time market data pipelines
+
+**2025 - Present** · Studying **CS + Mathematics** @ Northeastern University
+> Class of 2029 · Building production systems · Learning from the ground up
+
+**Upcoming** · Diving into **Embedded Systems & Low-Latency Networking**
+> Bare metal programming · Real-time data infrastructure · Stay tuned
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommyGhaly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
