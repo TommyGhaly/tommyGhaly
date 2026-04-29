@@ -12,17 +12,14 @@
 #### [Taksis](https://github.com/TommyGhaly/Taksis) — Church Management, Modernized
 > React Native · Expo · Firebase · MLKit
 
-A full-scale production app serving **500+ users** across Coptic Orthodox communities. Scheduling, attendance tracking, QR-based traffic management with license plate OCR, donations, and liturgical tools — all in one platform. Live on the Play Store.
+A full-scale production app serving **500+ users** across Coptic Orthodox communities. Scheduling, attendance tracking, weekly announcements, QR-based traffic management with license plate OCR, donations, and liturgical tools — all in one platform. Live on the Play Store.
 
-#### 📈 Options Pricing & Calibration Engine
-> C++ · Python · pybind11 · Plotly Dash
 
-High-performance quantitative finance toolkit implementing **Black-Scholes, SABR, Heston, and Local Volatility** models. Real-time market data ingestion, model calibration pipeline, and interactive visualization dashboard. Built for speed, designed for insight.
-
-#### 🔜 Up Next
+#### [Network Latency Analyzer](https://github.com/TommyGhaly/network_latency_analyzer) — Embedded Network Profiling
 > Embedded systems · Low-latency networking · Hardware-level profiling
 
-Something at the intersection of bare metal and real-time data. Stay tuned.
+A tool for analyzing network latency in embedded systems. Real-time data processing and hardware profiling.
+
 
 ---
 
@@ -45,9 +42,6 @@ Testing      ➜  JUnit · Mutation Testing · NullAway Static Analysis
 
 **2025** · Launched **Options Pricing & Calibration Engine**
 > High-performance quantitative finance toolkit · Black-Scholes, SABR, Heston models · Real-time market data pipelines
-
-**2025 - Present** · Studying **CS + Mathematics** @ Northeastern University
-> Class of 2029 · Building production systems · Learning from the ground up
 
 **Upcoming** · Diving into **Embedded Systems & Low-Latency Networking**
 > Bare metal programming · Real-time data infrastructure · Stay tuned
